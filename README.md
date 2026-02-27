@@ -1,6 +1,14 @@
 # Tech Book
 
-> Nuxt
+> Sass
+
+> TypeScript
+
+> Nuxt 4
+
+> Vuetify
+
+> Font Awesome
 
 ## Usefull elements
 
